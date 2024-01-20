@@ -1,0 +1,30 @@
+/* Здесь у нас будут основные переменные и сброс стилей и несколько общих классов*/
+
+body, *{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.container{
+  padding: 0 20%;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+input, button{
+  border: none;
+}

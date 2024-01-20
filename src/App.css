@@ -1,0 +1,9 @@
+/* Тут будут установлены основные свойста для тегов */
+
+body:not(.header){
+  background: rgb(52, 52, 52);
+}
+
+body, *{
+  color: white;
+}

@@ -1,0 +1,11 @@
+.menu{
+    text-align: left;
+    margin-right: 15px;
+}
+.menu > div{
+    margin-bottom: 5px;
+}
+
+.menu > hr{
+    opacity: 0.25;
+}
